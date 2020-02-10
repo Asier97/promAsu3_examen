@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Examen Ev. 2 Asier</string>
+
+    <!-- Principales -->
+    <string name="botonsalir">SALIR</string>
+    <string name="botonvolver">VOLVER</string>
+
+    <!-- Main activity -->
+    <string name="menuprincipal">-- MENÚ PRINCIPAL --</string>
+    <string name="botonbbdd">BASES DE DATOS</string>
+    <string name="botontiempo">EL TIEMPO (XML)</string>
+
+    <!-- BD activity -->
+    <string name="titulobbdd">Mi Base de Datos de Libros</string>
+    <string name="nuevolibro">NUEVO LIBRO</string>
+    <string name="listalibro">LISTADO LIBROS</string>
+    <string name="buscarlibro">BUSCAR LIBRO</string>
+
+    <!-- Sobre libros -->
+
+    <!-- Nuevo libro -->
+    <string name="titulonuevolibro">DATOS NUEVO LIBRO</string>
+    <string name="titulo">TITULO</string>
+    <string name="autor">AUTOR</string>
+    <string name="isbn">ISBN</string>
+    <string name="editorial">EDITORIAL</string>
+    <string name="npag">Nº PÁGINAS</string>
+    <string name="leido">Leido</string>
+    <string name="insertar">INSERTAR</string>
+    <string name="cancelar">CANCELAR</string>
+
+    <!-- Listado libros -->
+    <string name="titulolistadolibros">LISTADO DE LIBROS</string>
+    <string name="leidos">Leidos</string>
+    <string name="noleidos">No Leidos</string>
+    <string name="todosleidos">Todos los Libros</string>
+
+    <!-- Detalle libros -->
+    <string name="tituloDetalle">INFORMACIÓN DETALLADA DEL LIBRO</string>
+    <string name="libro">Libro</string>
+    <string name="paginas">páginas</string>
+    <string name="eliminar">ELIMINAR</string>
+
+    <!-- Buscar libros -->
+    <string name="tituloBuscar">Buscar Libros</string>
+    <string name="selbuscar">Marca la opción por la que quieres buscar</string>
+    <string name="buscar">Buscar</string>
+
+    <!-- Tiempo activity XML -->
+    <string name="titulotiempo">El Tiempo</string>
+    <string name="escogelocalidades">Escoge una de las siguientes localidades</string>
+    <string name="vitoria">Vitoria-Gasteiz</string>
+    <string name="bilbao">Bilbo-Bilbao</string>
+    <string name="sanse">Donostia-San Sebastián</string>
+    <string name="tiempoen">Tiempo en:</string>
+    <string name="dia">Dia:</string>
+    <string name="temax">Temperatura máxima:</string>
+    <string name="temin">Temperatura mínima:</string>
+    <string name="estadocielo">Estado del cielo:</string>
+</resources>
